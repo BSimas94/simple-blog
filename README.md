@@ -1,7 +1,6 @@
 # simple-blog
 A blog site I created using Django
 
-Login:
----
-Username: user
-Password: user1234
+## Notes: 
+*You must create a superuser which will act as a valid login for the blog*
+*You will have to adjust the database engine settings in the settings.py file to work with your local machine*
